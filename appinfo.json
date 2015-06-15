@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Peka",
+    "longName": "PlockTwo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/matrix_en.dat",
+                "name": "FILE_CLOCK_MATRIX_EN",
+                "type": "raw"
+            },
+            {
+                "file": "data/matrix.dat",
+                "name": "FILE_CLOCK_MATRIX_FR",
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "PlockTwo",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "79d8da78-40d1-456c-b2fb-238b12075044",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
